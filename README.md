@@ -1,6 +1,6 @@
 #Identification of handwritten digits
 This is a Python-reimplementation of programming exercise 4 from the Coursera
-course on machine learning. The implemented neural network detects handwritten digits.
+course on [machine learning](https://class.coursera.org/ml-004). The implemented neural network identifies handwritten digits.
 
 ##Dependencies
 * [scipy](http://www.scipy.org/)
