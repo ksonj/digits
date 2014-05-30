@@ -15,7 +15,7 @@ import matplotlib.pyplot
 def sigmoid(z):
     return 1./(1 + np.exp(-1*np.array(z)))
 
-data = io.loadmat('../ex4data1.mat')
+data = io.loadmat('ex4data1.mat')
 X = data['X']
 y = data['y']
 
