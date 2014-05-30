@@ -1,5 +1,5 @@
 #!/usr/bin/env python2
-# Implementation of one layer neural network to identify digits
+# Implementation of a one layer neural network to identify handwritten digits
 # (c) K. Jepsen, 2014
 # kalle@siberie.de
 # http://www.siberie.de/
